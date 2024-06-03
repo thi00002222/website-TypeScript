@@ -1,0 +1,16 @@
+// {
+//     "compilerOptions": {
+//         "outDir": "public/javascripts",
+//         "target": "ES2022",
+//         "removeComments": true,
+//         "noEmit": false,
+//     }, 
+// }
+{
+    "compilerOptions": {
+        "outDir": "public/javascript",
+        "noEmit": false,
+        "target": "ES2022",
+        "removeComments": true,
+    },
+}
